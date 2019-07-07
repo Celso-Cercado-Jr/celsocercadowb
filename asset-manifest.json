@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Celso-Cercado-Jr/celsocercadoweb/static/css/main.2cce8147.chunk.css",
-    "main.js": "/Celso-Cercado-Jr/celsocercadoweb/static/js/main.1b7fcce3.chunk.js",
-    "main.js.map": "/Celso-Cercado-Jr/celsocercadoweb/static/js/main.1b7fcce3.chunk.js.map",
-    "runtime~main.js": "/Celso-Cercado-Jr/celsocercadoweb/static/js/runtime~main.1c173086.js",
-    "runtime~main.js.map": "/Celso-Cercado-Jr/celsocercadoweb/static/js/runtime~main.1c173086.js.map",
-    "static/js/2.b41502e9.chunk.js": "/Celso-Cercado-Jr/celsocercadoweb/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/Celso-Cercado-Jr/celsocercadoweb/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "/Celso-Cercado-Jr/celsocercadoweb/index.html",
-    "precache-manifest.d63620c65b265a93ab9676dd5c804ba2.js": "/Celso-Cercado-Jr/celsocercadoweb/precache-manifest.d63620c65b265a93ab9676dd5c804ba2.js",
-    "service-worker.js": "/Celso-Cercado-Jr/celsocercadoweb/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/Celso-Cercado-Jr/celsocercadoweb/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/Celso-Cercado-Jr/celsocercadoweb/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Celso-Cercado-Jr/react-deploy.git/static/css/main.2cce8147.chunk.css",
+    "main.js": "/Celso-Cercado-Jr/react-deploy.git/static/js/main.c946305e.chunk.js",
+    "main.js.map": "/Celso-Cercado-Jr/react-deploy.git/static/js/main.c946305e.chunk.js.map",
+    "runtime~main.js": "/Celso-Cercado-Jr/react-deploy.git/static/js/runtime~main.5af24022.js",
+    "runtime~main.js.map": "/Celso-Cercado-Jr/react-deploy.git/static/js/runtime~main.5af24022.js.map",
+    "static/js/2.b41502e9.chunk.js": "/Celso-Cercado-Jr/react-deploy.git/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/Celso-Cercado-Jr/react-deploy.git/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/Celso-Cercado-Jr/react-deploy.git/index.html",
+    "precache-manifest.d919e4a049e6df7bddf5c0ed5d52870b.js": "/Celso-Cercado-Jr/react-deploy.git/precache-manifest.d919e4a049e6df7bddf5c0ed5d52870b.js",
+    "service-worker.js": "/Celso-Cercado-Jr/react-deploy.git/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/Celso-Cercado-Jr/react-deploy.git/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/Celso-Cercado-Jr/react-deploy.git/static/media/logo.5d5d9eef.svg"
   }
 }
